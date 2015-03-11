@@ -1,0 +1,16 @@
+build
+
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+Temp
+
+*.meta
+*.asset
+*.assets
+
+Assets
+
+*.Textures
