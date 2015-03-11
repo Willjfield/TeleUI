@@ -11,6 +11,4 @@ Temp
 *.asset
 *.assets
 
-Assets
-
-*.Textures
+Assets/Textures
